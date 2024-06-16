@@ -2,6 +2,7 @@
  # Loan Applications Analysis Dashboard Using SQL Server & Power BI
 ![Screenshot 2024-04-11 191555](https://github.com/MinaJoseph01/Bank_Loan_analysis/assets/142174893/9825391e-9f95-4970-9ab6-378d609ed3a8)
 ![Screenshot 2024-04-11 191534](https://github.com/MinaJoseph01/Bank_Loan_analysis/assets/142174893/f2a010fc-d5f5-4fd5-a39b-0b097a03ca5a)
+![Screenshot 2024-04-11 192935](https://github.com/MinaJoseph01/Bank_Loan_analysis/assets/142174893/c663db31-59f0-4ba1-9967-c52d0996f359)
 
 ## Project Overview
 
